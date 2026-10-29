@@ -1,0 +1,283 @@
+{
+  "heading": "G6_Number of faces, edges, vertices, Euler's Formula",
+  "topics": [
+    {
+      "heading": "Number of faces, edges, vertices, Euler's Formula",
+      "questions": [
+
+ 
+  {
+    "questionNo": 1,
+    "question": [
+      "A heavy wooden shipping crate is shaped precisely as a <b>rectangular prism</b>.",
+      "<br>How many <b>flat faces (F)</b>, <b>sharp corners or vertices (V)</b>, and <b>straight edges (E)</b> does this rectangular prism feature?"
+    ],
+    "options": [
+      "F = 8, V = 6, E = 12",
+      "F = 6, V = 12, E = 8",
+      "F = 6, V = 8, E = 12",
+      "F = 4, V = 4, E = 6"
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/13.png"
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "An art museum displays a precious artefact inside a large transparent acrylic case shaped exactly like a <b>cube</b>. How many <b>faces (F)</b>, <b>vertices (V)</b>, and <b>edges (E)</b> does a true cube possess?"
+    ],
+    "options": [
+      "F = 6, V = 8, E = 12",
+      "F = 8, V = 6, E = 12",
+      "F = 6, V = 12, E = 8",
+      "F = 12, V = 8, E = 6"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "A decorative patio heater features a large shiny metal reflector on top shaped exactly like a <b>square pyramid</b>.",
+      "<br>How many <b>faces (F)</b>, <b>vertices (V)</b>, and <b>edges (E)</b> are found on a square pyramid?"
+    ],
+    "options": [
+      "F = 4, V = 4, E = 6",
+      "F = 6, V = 8, E = 12",
+      "F = 5, V = 6, E = 9",
+      "F = 5, V = 5, E = 8"
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/14.png"
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "A luxury chocolate brand packages its truffles inside a solid cardboard box shaped like a <b>triangular pyramid (tetrahedron)</b>.",
+      "<br>How many <b>faces (F)</b>, <b>vertices (V)</b>, and <b>edges (E)</b> does a triangular pyramid possess?"
+    ],
+    "options": [
+      "F = 5, V = 5, E = 8",
+      "F = 6, V = 4, E = 6",
+      "F = 4, V = 4, E = 6",
+      "F = 4, V = 6, E = 4"
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/15.png"
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "A long wooden skateboard ramp is mathematically modelled as a <b>triangular prism</b>.",
+      "<br>Count the total number of <b>faces (F)</b>, <b>vertices (V)</b>, and <b>edges (E)</b> for this geometric shape."
+    ],
+    "options": [
+      "F = 6, V = 8, E = 12",
+      "F = 5, V = 6, E = 9",
+      "F = 5, V = 5, E = 8",
+      "F = 4, V = 4, E = 6"
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/16.png"
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "A stone column in an ancient temple is carved perfectly as a <b>pentagonal prism</b>.",
+      "<br>What is the correct numerical count for its <b>faces (F)</b>, <b>vertices (V)</b>, and <b>edges (E)</b>?"
+    ],
+    "options": [
+      "F = 7, V = 12, E = 18",
+      "F = 5, V = 10, E = 10",
+      "F = 7, V = 10, E = 15",
+      "F = 6, V = 10, E = 15"
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/17.png"
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "<b>Euler's formula</b> is a powerful mathematical rule that applies universally to all true polyhedrons (3D solids constructed strictly with flat faces). Which of the following equations accurately states Euler's formula?"
+    ],
+    "options": [
+      "F - V + E = 2",
+      "F + E - V = 2",
+      "F × V - E = 2",
+      "F + V - E = 2"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "When rigorously testing <b>Euler's law</b> on a new 3D geometric shape, you <b>add</b> the number of faces and vertices, then <b>subtract</b> the number of edges. If the shape is genuinely a valid polyhedron, what specific number will you always calculate as the final answer?"
+    ],
+    "options": [
+      "1",
+      "2",
+      "0",
+      "4"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "A mysterious 3D geometric block has exactly <b>14 vertices (V)</b> and <b>21 edges (E)</b>. Using <b>Euler's formula</b>, calculate the exact number of <b>faces (F)</b> this solid shape must possess."
+    ],
+    "options": [
+      "7",
+      "9",
+      "11",
+      "13"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "A jeweller examines a freshly cut gemstone that forms a perfect polyhedron. He counts exactly <b>16 vertices (V)</b> and <b>24 edges (E)</b>. Apply <b>Euler's formula</b> to determine how many <b>flat faces (F)</b> the gemstone has."
+    ],
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "An engineer builds a 3D structural frame designed with exactly <b>6 flat faces (F)</b> and <b>10 straight edges (E)</b>. Using <b>Euler's formula</b>, calculate the exact number of <b>vertices (V)</b> required for this frame."
+    ],
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "An industrial designer is sketching a new mechanical bolt head. Her design features exactly <b>7 faces (F)</b> and <b>12 edges (E)</b>. How many <b>vertices (V)</b> will the bolt head have, according to <b>Euler's formula</b>?"
+    ],
+    "options": [
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "A complex multi-sided puzzle block is precision-machined with exactly <b>14 faces (F)</b> and <b>12 vertices (V)</b>. Calculate the total number of <b>straight edges (E)</b> on this puzzle block using <b>Euler's formula</b>."
+    ],
+    "options": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "An ornate wooden pillar has been carved with exactly <b>10 faces (F)</b> and <b>16 vertices (V)</b>. Using <b>Euler's formula</b>, how many <b>straight edges (E)</b> does this carved shape possess?"
+    ],
+    "options": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "A student using 3D modelling software claims to have generated a solid polyhedron that possesses exactly <b>5 faces</b>, <b>7 vertices</b>, and <b>11 edges</b>. Based on <b>Euler's formula</b>, is this geometric shape actually mathematically possible?"
+    ],
+    "options": [
+      "Yes, because 5 + 7 - 11 = 1, which is close enough for software.",
+      "Yes, because Euler's formula is only a recommendation, not a rule.",
+      "No, because F + V - E must equal exactly 2.",
+      "No, because a polyhedron must have an even number of edges."
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 16,
+    "question": [
+      "A metalworker is welding a steel frame for a sculpture. His blueprint claims the finished shape will have <b>7 faces</b>, <b>8 vertices</b>, and <b>15 edges</b>. Does this blueprint strictly follow <b>Euler's law</b>, making it a valid constructible polyhedron?"
+    ],
+    "options": [
+      "Yes, the blueprint is valid.",
+      "No, the blueprint is invalid."
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 17,
+    "question": [
+      "A decorative paper lantern features exactly <b>12 flat faces</b> and <b>30 straight edges</b>. Using <b>Euler's mathematical rule</b>, how many <b>sharp corners (vertices)</b> does the lantern have?"
+    ],
+    "options": [
+      "16",
+      "18",
+      "20",
+      "22"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 18,
+    "question": [
+      "A carpenter is meticulously sanding down a multi-sided wooden pedestal. The pedestal features exactly <b>11 faces</b> and <b>18 vertices</b>. According to <b>Euler's formula</b>, exactly how many <b>straight edges</b> must the carpenter sand down to finish the job?"
+    ],
+    "options": [
+      "25",
+      "27",
+      "29",
+      "31"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 19,
+    "question": [
+      "According to <b>Euler's law</b>, if you <b>add</b> the total number of faces and vertices on a valid 3D shape, then <b>subtract</b> the total number of edges, the answer is invariably exactly ______.",
+      ""
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "2"
+    ]
+  },
+  {
+    "questionNo": 20,
+    "question": [
+      "A large <b>decagonal prism</b> (which features 10-sided bases) has exactly <b>12 faces</b> and <b>30 edges</b>. By applying <b>Euler's formula</b>, we can quickly determine it possesses exactly ______ vertices.",
+      ""
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "20"
+    ]
+  }
+
+
+
+      ]
+    }
+  ]
+}
